@@ -1,0 +1,21 @@
+.listComponent--container {
+  width: 60%;
+  border-radius: 5px;
+  margin-top: 15px;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+  height: auto;
+  padding: 15px;
+  margin: 15px auto;
+
+  .listComponent--heading {
+    font-size: 16px;
+    text-align: left;
+  }
+  .listComponent--list {
+    text-align: right;
+  }
+  
+}
+.strike {
+    text-decoration: line-through;
+  }

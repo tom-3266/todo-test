@@ -1,0 +1,23 @@
+.textArea--container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  .textArea--input {
+    width: 600px;
+    margin-top: 50px;
+    text-align: end;
+  }
+
+  .textArea--button {
+    margin-top: 10px;
+  }
+  .textArea--header {
+    width: 600px;
+    margin-top: 50px;
+    font-size: 22px;
+    font-weight: bold;
+  }
+}

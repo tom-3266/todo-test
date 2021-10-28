@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+.mt-10{
+  margin-top: 10px;
+}
+.ml-10{
+  margin-left: 10px;
+}
+.font-size-16{
+  font-size: 16px;
+  color: gray;
+}
+.flex{
+  display: flex;
+}
